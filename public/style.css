@@ -1,0 +1,4 @@
+body { background: #111; color: #eee; font-family: Arial; }
+#chat-container { max-width: 500px; margin: 50px auto; }
+#messages { height: 300px; overflow-y: scroll; border: 1px solid #555; padding: 10px; margin-bottom: 10px; }
+input, button { padding: 5px; margin: 5px 0; }
